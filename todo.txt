@@ -33,23 +33,11 @@ TODO, which will get actually done
 
 - SDL: implement SDL_GL_LoadLibrary() / SDL_GL_GetProcAddress() / SDL_GL_SetAttribute() / SDL_GL_GetAttribute().
 
-- USB Keyboard: redefine unknown keys, add VLC server.
-
 - S Planner Killer: options to restore calendar settiongs, and to kill lock-screen widget.
 
 - OpenTTD: 24bpp color mode + 32bpp blitter in SDL menu.
 
-- OpenTTD: text input freezes OpenTTD and servers kick it.
-
 - OpenTTD: multiplayer chat GUI is broken.
-
-- OpenTTD: Changing GUI zoom level resets button size.
-
-- OpenTTD: Cannot resize most dialogs.
-
-- OpenTTD: Arrow for sorting tables has incorrect position.
-
-- OpenTTD: Buy Vehicle window has only 4 items even when resized.
 
 - Debian: update, make it refresh DNS servers automatically.
 
